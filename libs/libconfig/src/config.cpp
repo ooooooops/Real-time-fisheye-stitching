@@ -1,0 +1,11 @@
+#include "config.h"
+
+int CYLINDER;
+int TRANS;
+
+int ESTIMATE_CAMERA;
+int LINEAR_INPUT;
+float SCALE_FACTOR;
+
+float GAUSS_SIGMA;
+int GAUSS_WINDOW_FACTOR;
